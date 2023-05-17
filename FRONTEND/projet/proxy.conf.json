@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+      "target": "https://projet-valentin-enzo.onrender.com/",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
